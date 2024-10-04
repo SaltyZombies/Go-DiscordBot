@@ -10,33 +10,34 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - Go (Golang)
 
-
 ### Planned Features
- - [ ] **Game Management via Plugins**
-    - [ ] Minecraft
-    - [ ] Ark Survival Ascended
-    - [ ] Rust
-    - [ ] Conan Exiles
-    - [ ] 7 Days to Die
+
+- [ ] **Game Management via Plugins**
+  - [ ] Minecraft
+  - [ ] Ark Survival Ascended
+  - [ ] Rust
+  - [ ] Conan Exiles
+  - [ ] 7 Days to Die
 - [ ] **Management of Server Status via:**
-    - [ ] Pterodactyl
-    - [ ] Docker
-
-
-
-
+  - [ ] Pterodactyl
+  - [ ] Docker
 
 ### Installation
 
 1. Clone the repository:
+
     ```sh
     git clone https://github.com/yourusername/SzDiscordBot.git
     ```
+
 2. Navigate to the project directory:
+
     ```sh
     cd SzDiscordBot
     ```
+
 3. Install the dependencies:
+
     ```sh
     go mod download
     ```
@@ -60,7 +61,6 @@ To start the bot, use the following command:
 ```sh
 go run main.go
 ```
-
 
 ### Using Docker
 
