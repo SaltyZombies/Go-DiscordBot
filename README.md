@@ -10,18 +10,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - Go (Golang)
 
-### Planned Features
-
-- [ ] **Game Management via Plugins**
-  - [ ] Minecraft
-  - [ ] Ark Survival Ascended
-  - [ ] Rust
-  - [ ] Conan Exiles
-  - [ ] 7 Days to Die
-- [ ] **Management of Server Status via:**
-  - [ ] Pterodactyl
-  - [ ] Docker
-
 ### Installation
 
 1. Clone the repository:
